@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ixobieha.github.io/Fuc/sitemap_index.txt
+Sitemap: https://ixobieha.github.io/GjR/sitemap_index.txt
+Sitemap: https://ixobieha.github.io/WqN/sitemap_index.txt
+Sitemap: https://ixobieha.github.io/cPa/sitemap_index.txt
